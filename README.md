@@ -60,7 +60,7 @@ Measures relationship strength using RSI scoring.
 
 ---
 ## Dashboard  
-![Ferns-and-Petals-Sales-Dashboard](https://github.com/maniratna10/European_Bank_Retention_Analysis/blob/main/European_Bank_Retention_Analysis_Dashboard_PDF.pdf)
+![/European_Bank_Retention_Analysis_Dashboard](https://github.com/maniratna10/European_Bank_Retention_Analysis/blob/main/European_Bank_Retention_Analysis_Dashboard_PDF.pdf)
 
 ## Project Outcome
 
